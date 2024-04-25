@@ -1,0 +1,14 @@
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\citation-list.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\citation-list.AssemblyInfoInputs.cache
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\citation-list.AssemblyInfo.cs
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\citation-list.csproj.CoreCompileInputs.cache
+F:\Treina-web\c#\005-Citation-List\citation-list\bin\Debug\net8.0\citation-list.exe
+F:\Treina-web\c#\005-Citation-List\citation-list\bin\Debug\net8.0\citation-list.deps.json
+F:\Treina-web\c#\005-Citation-List\citation-list\bin\Debug\net8.0\citation-list.runtimeconfig.json
+F:\Treina-web\c#\005-Citation-List\citation-list\bin\Debug\net8.0\citation-list.dll
+F:\Treina-web\c#\005-Citation-List\citation-list\bin\Debug\net8.0\citation-list.pdb
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\citation-list.dll
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\refint\citation-list.dll
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\citation-list.pdb
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\citation-list.genruntimeconfig.cache
+F:\Treina-web\c#\005-Citation-List\citation-list\obj\Debug\net8.0\ref\citation-list.dll
